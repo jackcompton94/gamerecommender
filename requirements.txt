@@ -43,7 +43,6 @@ fastjsonschema==2.16.3
 fonttools==4.39.4
 fqdn==1.5.1
 google-api-core==2.11.0
-google-api-python-client==1.7.11
 google-auth==2.16.0
 google-auth-httplib2==0.0.3
 google-auth-oauthlib==1.0.0
@@ -55,7 +54,6 @@ google-cloud-secret-manager==2.7.2
 google-crc32c==1.5.0
 google-resumable-media==2.4.1
 googleapis-common-protos==1.58.0
-googleauthentication==0.0.17
 greenlet==2.0.2
 grpc-google-iam-v1==0.12.6
 grpcio==1.51.1
@@ -135,7 +133,6 @@ pyasn1-modules==0.2.8
 pycparser==2.21
 pydata-google-auth==1.7.0
 Pygments==2.15.1
-pygsheets==2.0.6
 pyparsing==3.0.9
 pyrsistent==0.19.3
 python-dateutil==2.8.2
