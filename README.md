@@ -1,6 +1,6 @@
 # GameRecommender
 
-# PLEASE NOTE: If you would like to interact with the UI you will need to follow the installation steps below. The Jupyter Notebook file will not render the UI.
+# PLEASE NOTE: If you would like to interact with the UI you will need to follow the installation steps below. The Jupyter Notebook file will not render the UI in GitHub.
 
 ## Application Description and Machine Learning Algorithms Used
 The GameRecommender application utilizes machine learning techniques to address the challenge of recommending video games to users based on their owned games. 
